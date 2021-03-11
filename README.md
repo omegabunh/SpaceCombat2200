@@ -8,4 +8,4 @@ https://github.com/kijin-Kim/Crystal (2016182006 김기진)
 
 
 ## 문의
-kijin.kim@gmail.com (2016182006 김기진)
+kijin.kim0@gmail.com (2016182006 김기진)
