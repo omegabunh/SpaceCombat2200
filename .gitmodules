@@ -1,0 +1,6 @@
+[submodule "Crystal"]
+	path = Crystal
+	url = https://github.com/kijin-Kim/Crystal.git
+[submodule "IOCP-Server"]
+	path = IOCP-Server
+	url = https://github.com/omegabunh/IOCP-Server.git
